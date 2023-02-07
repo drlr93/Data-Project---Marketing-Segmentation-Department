@@ -15,3 +15,5 @@ The bank's marketing team wants to launch a targeted advertising campaign by div
 We will use the K-Means algorithm to determine these groups based on the number of variables provided by the bank. To do this, we will select the optimal number of clusters (K).
 
 For the analysis, we will use autoencoders and PCA to reduce dimensionality.
+
+![Image](https://user-images.githubusercontent.com/98351714/217240426-fc38a4b7-bfea-465b-962a-b8e8c35b17d3.PNG)
